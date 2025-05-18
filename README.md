@@ -7,5 +7,5 @@ Primary Interests: Phontonic QC, QML and Qalgo
 
 # GIT Status
 
-[![trophy](https://github-profile-trophy.vercel.app/Meta-user-byte=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Meta-user-byte)](https://github.com/ryo-ma/github-profile-trophy)
 
