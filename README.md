@@ -1,5 +1,5 @@
 # Ankit Sharma
-Status: More to Go!
+My Status: Going until its over!
 
 Howdy everyone! This is @Meta-Ankit, a physics and a quantum tech enthusiast specializes in quantum machine learning and quantum algorithms 
 
