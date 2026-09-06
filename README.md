@@ -1,7 +1,7 @@
 # Ankit Sharma
-My Status: Temporary Break
+My Status: Currently working on my thesis "Defect engineered 2D materials as quantum light emitters".
 
-Howdy everyone! This is @Meta-Ankit, a physics and a quantum tech enthusiast specializes in quantum machine learning and quantum algorithms 
+Howdy everyone! This is @PhotonCryo, a physics and a quantum tech enthusiast specializes in quantum machine learning and quantum algorithms 
 
 Primary Interests: Phontonic QC, QML and Qalgo
 
