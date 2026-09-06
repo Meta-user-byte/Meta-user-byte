@@ -5,5 +5,5 @@ Howdy everyone! This is @Meta-Ankit, a physics and a quantum tech enthusiast spe
 
 Primary Interests: Phontonic QC, QML and Qalgo
 
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/Meta-user-byte&theme=nightowl)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Meta-user-byte)](https://git.io/awesome-stats-card)
 
